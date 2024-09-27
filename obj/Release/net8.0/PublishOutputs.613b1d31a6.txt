@@ -1,0 +1,7 @@
+C:\Users\Banee\CloudComputingApp\bin\Release\net8.0\publish\CloudComputingApp.exe
+C:\Users\Banee\CloudComputingApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Banee\CloudComputingApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Banee\CloudComputingApp\bin\Release\net8.0\publish\CloudComputingApp.dll
+C:\Users\Banee\CloudComputingApp\bin\Release\net8.0\publish\CloudComputingApp.deps.json
+C:\Users\Banee\CloudComputingApp\bin\Release\net8.0\publish\CloudComputingApp.runtimeconfig.json
+C:\Users\Banee\CloudComputingApp\bin\Release\net8.0\publish\CloudComputingApp.pdb

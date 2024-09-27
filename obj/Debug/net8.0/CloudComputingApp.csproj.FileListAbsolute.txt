@@ -1,0 +1,2 @@
+C:\Users\Banee\CloudComputingApp\bin\Debug\net8.0\CloudComputingApp.exe
+C:\Users\Banee\CloudComputingApp\bin\Debug\net8.0\CloudComputingApp.dll
